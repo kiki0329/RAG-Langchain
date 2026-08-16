@@ -1,0 +1,9 @@
+Introduction to Python
+
+Python is a high-level, interpreted, and general-purpose programming language. It was created by Guido van Rossum and first released in 1991. Python is known for its simple and easy-to-understand syntax, which makes it suitable for beginners.
+
+Python is a free and open-source language. It supports different programming styles, including object-oriented, procedural, and functional programming. Python is widely used in web development, data science, artificial intelligence, machine learning, automation, game development, and software development.
+
+One of the main advantages of Python is that it requires less code compared to many other programming languages. It also has a large collection of built-in libraries and frameworks that make programming easier.
+
+In simple words, Python is a powerful, flexible, and beginner-friendly programming language used to develop different types of applications.
