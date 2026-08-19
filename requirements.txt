@@ -1,8 +1,11 @@
 langchain
-langchain-core 
+langchain-core
 langchain-community
+langchain-groq
+langchain-huggingface
 pypdf
 pymupdf
 sentence-transformers
 faiss-cpu
 chromadb
+python-dotenv
